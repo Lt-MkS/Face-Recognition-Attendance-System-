@@ -3,6 +3,7 @@
 📌 Project Overview
 This project is an AI-powered attendance management system that uses face recognition technology to automate and simplify the process of marking attendance. Built with Python and OpenCV, the system can detect and recognize multiple faces in real-time and record attendance with timestamps — eliminating the need for manual entry or biometric devices.
 
+# Must : Make a Folder by name Data. It will be used to collect images of yours for training.
 🚀 Features
 🎯 Real-time face detection and recognition using a webcam
 
